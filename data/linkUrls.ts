@@ -3,7 +3,7 @@ import ILinkUrl from "@/lib/interfaces/linkUrl";
 export const linkUrls: ILinkUrl[] = [
     {
         name: 'GitHub',
-        url: 'https://github.com/mrsjlwhite',
+        url: 'https://github.com/themadamdev',
         allowsMessaging: false
     },
     {
