@@ -11,14 +11,14 @@ export const linkUrls: ILinkUrl[] = [
         url: 'https://www.linkedin.com/in/jeslyn-white/',
         allowsMessaging: true
     },
-    {
-        name: 'Instagram',
-        url: 'https://www.instagram.com/jlwhite.dev/',
-        allowsMessaging: true
-    },
-    {
-        name: 'X',
-        url: 'https://x.com/jlwhite_dev',
-        allowsMessaging: false
-    }
+    // {
+    //     name: 'Instagram',
+    //     url: 'https://www.instagram.com/jlwhite.dev/',
+    //     allowsMessaging: true
+    // },
+    // {
+    //     name: 'X',
+    //     url: 'https://x.com/jlwhite_dev',
+    //     allowsMessaging: false
+    // }
 ];

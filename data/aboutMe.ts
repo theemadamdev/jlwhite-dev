@@ -27,7 +27,7 @@ export const aboutMe = [
   },
   {
     title: 'fun.',
-    content: `Outside of work, you’ll find me hiking a trail, out camping or immersed in books, films, or video games. 
+    content: `Outside of work, you’ll find me at the gym, dancing to music, watching basketball or immersed in books, films, or video games. 
       I’m captivated by the storytelling, world-building, and aesthetic artistry these mediums bring, and I draw inspiration from them in my own development work.`
   }
 ]
