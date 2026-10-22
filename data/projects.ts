@@ -24,7 +24,7 @@ export const projects: IWorkProject[] = [
         date: 'May 5, 2024',
         slug: 'usagis-desktop',
         imageCover: '/imgs/workSamples/usagisDesktop/usagi0.png',
-        images: ['/imgs/workSamples/usagisDesktop/usagi1.png', '/imgs/workSamples/usagisDesktop/usagi2.png', '/imgs/workSamples/usagisDesktop/usagi3.png'],
+        images: ['/imgs/workSamples/usagisDesktop/usagi1.png', '/imgs/workSamples/usagisDesktop/usagi2.png'],
         previewOnHomepage: false
     },
     {
