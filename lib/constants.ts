@@ -4,7 +4,8 @@ export const ProjectNames = Object.freeze({
     Entourage: 'Bride Entourage',
     PokeQuiz: 'Poke Quiz',
     Tinkerfairy: 'Tinkerfairy',
-    Hundekey: 'HundekeyCreeates'
+    Hundekey: 'HundekeyCreeates',
+    UsagisDesktop: 'Usagi\'s Desktop',
 })
 
 export const ProjectTypes = Object.freeze({

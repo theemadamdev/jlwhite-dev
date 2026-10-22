@@ -4,6 +4,30 @@ import { next, react, typescript, bootstrap, sass, html, css, javascript } from 
 
 export const projects: IWorkProject[] = [
     {
+        name: ProjectNames.UsagisDesktop,
+        summary: "Usagi's Desktop",
+        preview: "A vaporwave-inspired desktop for Sailor Moon, featuring a colorful design and dynamic elements.",
+        description: `
+        Developed a custom desktop environment for Usagi, focusing on usability and aesthetics.
+        Features included;
+        : Youthful aura aesthetic with an aura-moving background.
+        : Headless CMS with Notion for easy content updates by the client.
+        : Responsive design for optimal viewing on all devices.
+        : Integration with social media platforms for easy sharing.
+        : Custom audio player for streaming the artist's music.
+        : SEO optimization for better search engine visibility.
+        `,
+        tech: [react, next, typescript, sass],
+        projectType: ProjectTypes.Personal,
+        githubLink: '',
+        liveLink: '',
+        date: 'May 5, 2024',
+        slug: 'usagis-desktop',
+        imageCover: '/imgs/workSamples/usagisDesktop/usagi0.png',
+        images: ['/imgs/workSamples/usagisDesktop/usagi1.png', '/imgs/workSamples/usagisDesktop/usagi2.png', '/imgs/workSamples/usagisDesktop/usagi3.png'],
+        previewOnHomepage: false
+    },
+    {
         name: ProjectNames.MusicianWebsite,
         summary: "Singer-Songwriter's Aura Website",
         preview: "A high visual, aura aesthetic musician website featuring an aesthetic UI and dynamic content management.",
