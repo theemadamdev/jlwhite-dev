@@ -45,7 +45,7 @@ const About = () => {
                     })}
                 </div>
                 <Image
-                    src='/imgs/me.jpeg'
+                    src='/imgs/meNow.jpeg'
                     alt='A photo of me'
                     height={500}
                     width={400}
