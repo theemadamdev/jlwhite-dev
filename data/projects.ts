@@ -119,28 +119,28 @@ export const projects: IWorkProject[] = [
         images: ['/imgs/workSamples/poke/poke1.png', '/imgs/workSamples/poke/poke2.png'],
         previewOnHomepage: false
     },
-    {
-        name: ProjectNames.Tinkerfairy,
-        summary: "🧚‍♀️ Tech & Lifestyle Blog with a Spark of Magic",
-        preview: "A whimsical yet modern blog that blends code, creativity, and everyday fairy life—crafted for performance, designed for joy, and built with secure, thoughtful tech.",
-        description: `
-        Built from the ground up, this static blog site is where tech meets lifestyle—with a sprinkle of Tinkerfairy charm. ✨;
-        : 🪄 Fully responsive design, fluttering beautifully across all screen sizes
-        : 📬 Integrated SendGrid for seamless contact, secured with reCAPTCHA to keep out the trolls
-        : 📚 Powered by static markdown files for ultra-fast performance and simple content management
-        : 🧼 Clean, modern UI focused on an engaging and delightful reading experience
-        : This blog is my cozy little corner of the internet—where I share helpful code tutorials, fairy-sized life updates, and a few favorite magical thing-a-lings along the way. ✨💻🌸
-        `,
-        tech: [react, next, typescript, sass],
-        projectType: ProjectTypes.Personal,
-        githubLink: 'https://github.com/themadamdev/tinkerfairy',
-        liveLink: 'https://tinkerfairy.dev',
-        date: 'September 4, 2022',
-        slug: 'tinkerfairy',
-        imageCover: '/imgs/workSamples/tinkerfairy/tinkerfairy0.png',
-        images: ['/imgs/workSamples/tinkerfairy/tinkerfairy1.png', '/imgs/workSamples/tinkerfairy/tinkerfairy2.png', '/imgs/workSamples/tinkerfairy/kimba3.png'],
-        previewOnHomepage: true
-    },
+    // {
+    //     name: ProjectNames.Tinkerfairy,
+    //     summary: "🧚‍♀️ Tech & Lifestyle Blog with a Spark of Magic",
+    //     preview: "A whimsical yet modern blog that blends code, creativity, and everyday fairy life—crafted for performance, designed for joy, and built with secure, thoughtful tech.",
+    //     description: `
+    //     Built from the ground up, this static blog site is where tech meets lifestyle—with a sprinkle of Tinkerfairy charm. ✨;
+    //     : 🪄 Fully responsive design, fluttering beautifully across all screen sizes
+    //     : 📬 Integrated SendGrid for seamless contact, secured with reCAPTCHA to keep out the trolls
+    //     : 📚 Powered by static markdown files for ultra-fast performance and simple content management
+    //     : 🧼 Clean, modern UI focused on an engaging and delightful reading experience
+    //     : This blog is my cozy little corner of the internet—where I share helpful code tutorials, fairy-sized life updates, and a few favorite magical thing-a-lings along the way. ✨💻🌸
+    //     `,
+    //     tech: [react, next, typescript, sass],
+    //     projectType: ProjectTypes.Personal,
+    //     githubLink: 'https://github.com/themadamdev/tinkerfairy',
+    //     liveLink: 'https://tinkerfairy.dev',
+    //     date: 'September 4, 2022',
+    //     slug: 'tinkerfairy',
+    //     imageCover: '/imgs/workSamples/tinkerfairy/tinkerfairy0.png',
+    //     images: ['/imgs/workSamples/tinkerfairy/tinkerfairy1.png', '/imgs/workSamples/tinkerfairy/tinkerfairy2.png', '/imgs/workSamples/tinkerfairy/kimba3.png'],
+    //     previewOnHomepage: true
+    // },
     {
         name: ProjectNames.Hundekey,
         summary: "Art Portfolio",
