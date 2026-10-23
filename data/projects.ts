@@ -138,7 +138,7 @@ export const projects: IWorkProject[] = [
         date: 'September 4, 2022',
         slug: 'tinkerfairy',
         imageCover: '/imgs/workSamples/tinkerfairy/tinkerfairy0.png',
-        images: ['/imgs/workSamples/tinkerfairy/tinkerfairy1.png', '/imgs/workSamples/tinkerfairy/tinkerfairy2.png', '/imgs/workSamples/tinkerfairy/kimba3.png'],
+        images: ['/imgs/workSamples/tinkerfairy/tinkerfairy1.png', '/imgs/workSamples/tinkerfairy/tinkerfairy2.png'],
         previewOnHomepage: true
     },
     {
